@@ -1,0 +1,15 @@
+F:\SQL code C#\Moduel-2-C#\ProjectC#\New folder\PlayersRepository\PlayersRepository\bin\Debug\PlayersRepository.exe.config
+F:\SQL code C#\Moduel-2-C#\ProjectC#\New folder\PlayersRepository\PlayersRepository\bin\Debug\PlayersRepository.exe
+F:\SQL code C#\Moduel-2-C#\ProjectC#\New folder\PlayersRepository\PlayersRepository\bin\Debug\PlayersRepository.pdb
+F:\SQL code C#\Moduel-2-C#\ProjectC#\New folder\PlayersRepository\PlayersRepository\obj\Debug\PlayersRepository.csproj.AssemblyReference.cache
+F:\SQL code C#\Moduel-2-C#\ProjectC#\New folder\PlayersRepository\PlayersRepository\obj\Debug\PlayersRepository.csproj.SuggestedBindingRedirects.cache
+F:\SQL code C#\Moduel-2-C#\ProjectC#\New folder\PlayersRepository\PlayersRepository\obj\Debug\PlayersRepository.csproj.CoreCompileInputs.cache
+F:\SQL code C#\Moduel-2-C#\ProjectC#\New folder\PlayersRepository\PlayersRepository\obj\Debug\PlayersRepository.exe
+F:\SQL code C#\Moduel-2-C#\ProjectC#\New folder\PlayersRepository\PlayersRepository\obj\Debug\PlayersRepository.pdb
+F:\DotNetAllModule\Moduel-2-C#\ProjectC#\C#-FinalPro-1274378-Md.Shahariar Rokon\PlayersRepository\PlayersRepository\bin\Debug\PlayersRepository.exe.config
+F:\DotNetAllModule\Moduel-2-C#\ProjectC#\C#-FinalPro-1274378-Md.Shahariar Rokon\PlayersRepository\PlayersRepository\bin\Debug\PlayersRepository.exe
+F:\DotNetAllModule\Moduel-2-C#\ProjectC#\C#-FinalPro-1274378-Md.Shahariar Rokon\PlayersRepository\PlayersRepository\bin\Debug\PlayersRepository.pdb
+F:\DotNetAllModule\Moduel-2-C#\ProjectC#\C#-FinalPro-1274378-Md.Shahariar Rokon\PlayersRepository\PlayersRepository\obj\Debug\PlayersRepository.csproj.AssemblyReference.cache
+F:\DotNetAllModule\Moduel-2-C#\ProjectC#\C#-FinalPro-1274378-Md.Shahariar Rokon\PlayersRepository\PlayersRepository\obj\Debug\PlayersRepository.csproj.CoreCompileInputs.cache
+F:\DotNetAllModule\Moduel-2-C#\ProjectC#\C#-FinalPro-1274378-Md.Shahariar Rokon\PlayersRepository\PlayersRepository\obj\Debug\PlayersRepository.exe
+F:\DotNetAllModule\Moduel-2-C#\ProjectC#\C#-FinalPro-1274378-Md.Shahariar Rokon\PlayersRepository\PlayersRepository\obj\Debug\PlayersRepository.pdb
