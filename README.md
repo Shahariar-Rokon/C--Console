@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing <PlayerRepository>
 
-To install <gh repo clone Shahariar-Rokon/CSharpConsole>, follow these steps:
+To install <PlayerRepository>, follow these steps:
 
 1. **Clone the repository**: Clone the repository to your local machine using the command `gh repo clone Shahariar-Rokon/CSharpConsole`.
 
